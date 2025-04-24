@@ -1,6 +1,7 @@
 # Automated Generation and Validation of Financial Descriptions for Lithuanian Companies
 
-This repository provides a complete solution for generating, validating, and translating financial descriptions of Lithuanian companies using local Large Language Models (LLMs). This project was created by Antanas Baltrušaitis and presented at PyCon 2025 in a talk titled "[Leveraging Large Language Models for Automated Generation and Validation of Financial Descriptions for Lithuanian Companies](slides/scoris_pycon2025_slides.pdf)".
+This repository provides a complete solution for generating, validating, and translating financial descriptions of Lithuanian companies using local Large Language Models (LLMs). This project was created by Antanas Baltrušaitis and presented at PyCon 2025 in a talk titled "[Leveraging Large Language Models for Automated Generation and Validation of Financial Descriptions for Lithuanian Companies](https://pycon.lt/talks/9F3LPG)
+
 
 ## 🌟 Solution Overview
 This project enables automated generation, validation, and multilingual translation (English ↔️ Lithuanian) of financial descriptions efficiently and accurately using open source and fine-tuned Large Language Models:
@@ -33,7 +34,8 @@ Leveraging custom fine-tuned Hugging Face translation models for specific Englis
 📫 Connect on [LinkedIn](https://www.linkedin.com/in/abaltrusaitis/) | Personal website [baltrusaitis.lt](https://baltrusaitis.lt/)
 
 ## 🎙️ PyCon 2025 Conference Talk
-**Topic**: [Leveraging Large Language Models for Automated Generation and Validation of Financial Descriptions for Lithuanian Companies](slides/scoris_pycon2025_slides.pdf)
+**Topic**: [Leveraging Large Language Models for Automated Generation and Validation of Financial Descriptions for Lithuanian Companies](https://pycon.lt/talks/9F3LPG)
+**Slides**: [Slides](slides/scoris_pycon2025_slides.pdf)
 
 ## 📊 Use Cases & Achievements
 - Generated and translated financial descriptions for over 100,000 Lithuanian companies using local LLMs.
